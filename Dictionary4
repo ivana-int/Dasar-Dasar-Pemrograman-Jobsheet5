@@ -1,0 +1,6 @@
+foo = { "kegiatan": "Belajar Python",
+        "website": "Duniailkom",
+        "hasil": "Yakin bisa!"}
+
+foo["target"] = 2020
+print(foo)
