@@ -1,0 +1,5 @@
+foo = dict (kegiatan = "Belajar Python",
+            website = "Duniailkom",
+            hasil = "Yakin bisa!" )
+
+print(foo)
