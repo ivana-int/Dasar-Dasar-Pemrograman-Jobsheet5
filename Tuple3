@@ -1,0 +1,3 @@
+foo = ("Python", 200, 6.99, True, 'Duniailkom', 99j)
+foo[0] ='Belajar'
+print(foo)
