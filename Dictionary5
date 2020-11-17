@@ -1,0 +1,6 @@
+foo = { "kegiatan": "Belajar Python",
+        "website": "Duniailkom",
+        "hasil": "Yakin bisa!"}
+
+del foo["kegiatan"]
+print(foo)
